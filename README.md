@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🌐 Azure Estudos
 
@@ -37,3 +38,34 @@ Feita de sonhos e fé 💫
 ## 📌 Observações
 
 Este material está em constante atualização conforme avanço nos estudos e experiências com a plataforma.
+=======
+# Azure DB Config 📘
+
+Repositório com anotações, dicas e passo a passo para a configuração de uma instância de banco de dados no Microsoft Azure.
+
+Este material foi criado com o objetivo de servir como apoio para estudos, provas de conceito e futuras implementações.
+
+---
+
+## 📚 Índice de Conteúdos
+
+- [1. Criação da Instância no Azure](docs/01-criacao-instancia.md)
+- [2. Configurações Iniciais e Acesso](docs/02-configuracoes-iniciais.md)
+- [3. Dicas e Boas Práticas](docs/03-tips-e-boas-praticas.md)
+- [4. Referências e Links Úteis](docs/04-referencias.md)
+
+---
+
+## ✅ Objetivos
+
+- Documentar o processo de criação de uma instância de banco de dados (SQL) no Azure
+- Anotar boas práticas e comandos úteis
+- Manter um material de apoio para revisões futuras
+
+---
+
+## 📌 Sobre
+
+Este repositório é parte de um desafio técnico e também será utilizado como base para meu portfólio profissional.  
+Criado por Luciana ✨
+>>>>>>> d234464 (Atualizando dicas configuracoes Banco Dados Azure)
