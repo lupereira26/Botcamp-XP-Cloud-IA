@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> dd14ec10d94a77aec9e39d57ce6e7d40befa2a8c
-
 # 🌐 Azure Estudos
 
 Este repositório foi criado com o objetivo de organizar resumos, anotações e dicas práticas sobre o uso da Microsoft Azure, servindo como material de apoio para meus estudos e futuras implementações.
@@ -72,6 +67,3 @@ Este material foi criado com o objetivo de servir como apoio para estudos, prova
 
 Este repositório é parte de um desafio técnico e também será utilizado como base para meu portfólio profissional.  
 Criado por Luciana ✨
->>>>>>> d234464 (Atualizando dicas configuracoes Banco Dados Azure)
-=======
->>>>>>> dd14ec10d94a77aec9e39d57ce6e7d40befa2a8c
