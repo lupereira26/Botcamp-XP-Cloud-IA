@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dd14ec10d94a77aec9e39d57ce6e7d40befa2a8c
 
 # 🌐 Azure Estudos
 
@@ -38,6 +41,7 @@ Feita de sonhos e fé 💫
 ## 📌 Observações
 
 Este material está em constante atualização conforme avanço nos estudos e experiências com a plataforma.
+<<<<<<< HEAD
 =======
 # Azure DB Config 📘
 
@@ -69,3 +73,5 @@ Este material foi criado com o objetivo de servir como apoio para estudos, prova
 Este repositório é parte de um desafio técnico e também será utilizado como base para meu portfólio profissional.  
 Criado por Luciana ✨
 >>>>>>> d234464 (Atualizando dicas configuracoes Banco Dados Azure)
+=======
+>>>>>>> dd14ec10d94a77aec9e39d57ce6e7d40befa2a8c
